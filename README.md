@@ -1,3 +1,6 @@
+# Me trying to make a Rubik's cube simulation
+## Below is my brain storm and planning
+
 Initial thoughts:
 - There are 6 sides, each containing 9 faces, to make 74 faces total, most faces will always be adjacent to the same face on another side.
 - That constant though should be inherent, unless I design the cube to work as I store each subcube instead of each face. I think that would be better tbh.
